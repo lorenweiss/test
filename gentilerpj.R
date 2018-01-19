@@ -3,6 +3,7 @@ rm(list=ls(all=T))
 #----------------------------------------------------------
 t1 <- Sys.time(); print(t1) ###############################
 #----------------------------------------------------------
+'testting git
 
 options(java.parameters="-Xmx5g")
 source("src/dateFunctions.R")
